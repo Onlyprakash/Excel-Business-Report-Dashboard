@@ -1,5 +1,16 @@
 # Excel Business Report Dashboard Analysis <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="50"/>
 
+## 📌 Project Overview
+
+This project presents an interactive Business Report Dashboard built in Microsoft Excel for analyzing key business metrics such as revenue, profit, expenses, transactions, and category-wise performance.
+
+The dashboard transforms raw business data into meaningful visual insights using charts, Pivot Tables, and reporting techniques. It helps monitor business performance, identify high-performing categories, analyze regional transactions, and compare revenue, expenses, and profit trends.
+
+The main objective of this project is to improve business reporting and support data-driven decision-making through clear and interactive visual analysis.
+
+# 📈 Dashboard Preview
+<img width="1000" height="500" alt="Screenshot 2026-05-16 122934" src="https://github.com/user-attachments/assets/d925c750-e196-4f6e-b820-1941249b41dd" />
+
 ## 🛠️ Tools Used
 
 - Microsoft Excel
@@ -25,8 +36,6 @@
 - R&D department showed the highest revenue and expense values.
 - Africa recorded the highest number of transactions.
 
-# 📈 Dashboard Preview
-<img width="1000" height="500" alt="Screenshot 2026-05-16 122934" src="https://github.com/user-attachments/assets/d925c750-e196-4f6e-b820-1941249b41dd" />
 
 # 👤 AUTHOR :-
 
